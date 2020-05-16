@@ -2,3 +2,5 @@ Hola, mi nombre es Axel Castillo
 
 Esto tomando el curso de git de platzi
 dictado por freddy vega en el 2020
+
+Hoy Freddy es el CEO de platzi
